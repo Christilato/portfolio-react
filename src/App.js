@@ -9,7 +9,7 @@ import Portfolio from "./components/portfolio/Portfolio"
 
 function App () {
     return (
-        <div>
+        <div className='App'>
             <Header />
             <Nav />
             <About />

@@ -1,5 +1,9 @@
 import React from "react";
+import "../about/about.css";
 
+const styles = {
+    
+}
 
 
 function About () {

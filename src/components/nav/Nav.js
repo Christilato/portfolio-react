@@ -1,24 +1,24 @@
 import React from "react";
+import "../nav/nav.css"
+
+const styles = {
+  
+}
 
 function Nav () {
     return (
         <>
-        <Nav className="justify-content-center" activeKey="/home">
-          <Nav.Item>
-            <Nav.Link href="/home">About</Nav.Link>
-          </Nav.Item>
-          <Nav.Item>
-            <Nav.Link eventKey="link-1">Portfolio</Nav.Link>
-          </Nav.Item>
-          <Nav.Item>
-            <Nav.Link eventKey="link-2">Contact</Nav.Link>
-          </Nav.Item>
-          <Nav.Item>
-            <Nav.Link eventKey="disabled" disabled>
-              Resume
-            </Nav.Link>
-          </Nav.Item>
-        </Nav>
+        <nav className="navbar">
+        <div className="container-fluid">
+          <div className="navbar-nav">
+            <a className="nav-link active"></a>
+            <a className="nav-link" href="#">About</a>
+            <a className="nav-link" href="#">Portfolio</a>
+            <a className="nav-link" href="#">Contact</a>
+            <a className="nav-link" href="#">Resume</a>
+          </div>
+        </div>
+        </nav>
         </>
   );
 };

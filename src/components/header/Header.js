@@ -4,7 +4,7 @@ import "../header/header.css";
 const styles = {
     header: {
         fontSize:" xxx-large",
-        color: "#FFB4A2",
+        color: "#9d7a81",
     },
 };
 

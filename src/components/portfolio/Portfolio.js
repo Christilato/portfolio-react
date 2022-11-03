@@ -5,17 +5,23 @@ import  "../portfolio/portfolio.css";
 
 const styles = {
     p: {
-        color: "#FFB4A2",
+        color: "#423c4b",
     },
-};
+    projects: {
+        padding: "60px",
+    },
+    h1: {
+    color: "#9d7a81",
+    },
+}; 
 
 function Portfolio() {
     return (
         <div name='projects' className='w-full md:h-screen text-gray-300 bg-[#0a192f]'>
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
           <div className='pb-8 mt-96'>
-              <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-[#ff66c4]'>Projects</p>
-              <p className='py-6 text-xl'>Check out my work!</p>
+              <h1 id = "projects" className='text-4xl font-bold inline border-b-4 text-gray-300 border-[#ff66c4]'>Projects</h1>
+              <h1 className='py-6 text-xl'>Check out my work!</h1>
           </div>
   
           {/* container */}

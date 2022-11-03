@@ -6,7 +6,7 @@ function Contact () {
     const linkedin = "https://www.linkedin.com/in/christilato/"
 
     return (
-        <div className='contact'>
+        <div id="contact" className='contact'>
             <h2>Contact Me:</h2>
             <div>
             <h3><a href="christilato@gmail.com">{email}</a></h3>

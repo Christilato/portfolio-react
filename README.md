@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshot
+
+![Webpage screenshot](./ss.png)
+
+## Github link
+[Live-link](https://github.com/Christilato/portfolio-react)
+
 ## Available Scripts
 
 In the project directory, you can run:

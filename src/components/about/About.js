@@ -1,9 +1,13 @@
 import React from "react";
 import "../about/about.css";
+import Card from 'react-bootstrap/Card';
 
 const styles = {
     
-}
+    h1 : {
+        color: "#9d7a81",
+    },
+};
 
 
 function About () {
@@ -14,10 +18,13 @@ function About () {
     
     return (
     <div className="about">
-        <h1>About Me</h1>
-        <p> {bio} </p>
-        <p>{aboutMe}</p>
-
+        <Card>
+            <Card.Body>
+        <h1 id= "about">About Me</h1>
+            <p> {bio} </p>
+            <p>{aboutMe}</p>
+            </Card.Body>
+        </Card>
     </div>
     );
 };

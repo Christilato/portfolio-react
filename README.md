@@ -7,7 +7,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![Webpage screenshot](./ss.png)
 
 ## Github link
-[Live-link](https://github.com/Christilato/portfolio-react)
+[Github-link](https://github.com/Christilato/portfolio-react)
+
+## Live Link
+[Live-link] ()
 
 ## Available Scripts
 

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.74cddf24.css",
+    "main.js": "/portfolio-react/static/js/main.b94529d3.js",
+    "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
+    "static/media/ebook-generator.png": "/portfolio-react/static/media/ebook-generator.5a20b092cd541d17287b.png",
+    "static/media/got.png": "/portfolio-react/static/media/got.66c66c02286dfc79c1db.png",
+    "index.html": "/portfolio-react/index.html",
+    "main.74cddf24.css.map": "/portfolio-react/static/css/main.74cddf24.css.map",
+    "main.b94529d3.js.map": "/portfolio-react/static/js/main.b94529d3.js.map",
+    "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74cddf24.css",
+    "static/js/main.b94529d3.js"
+  ]
+}
